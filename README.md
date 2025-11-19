@@ -89,7 +89,8 @@ Type in the second sequence = [2 1 3 5 6 3 5 9]
 
 TABULAR COLUMN
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f5a3d290-c433-4fc6-bc5b-a4b9d87b479e" />
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/9bd604a7-ab53-49d2-9ea3-a5a091086dc7" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f0cd2605-dd34-4a4b-9472-3f410dbe235c" />
+
 
 
 
