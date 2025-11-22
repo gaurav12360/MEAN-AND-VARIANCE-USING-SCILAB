@@ -101,8 +101,6 @@ TABULAR COLUMN
 
 
 
-RESULT:
-Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
 
 
 
